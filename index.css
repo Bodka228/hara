@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: darkblue;
+    border-color: darkblue;
+    border-radius: 10px;
+    border-width: 300px;
+    padding: 30px;
+}
+
+header p {
+    color: white;
+}
+
+header a {
+    color: white;
+    text-align: end;
+    border-width: 10px;
+    border-color: white;
+}
+
+main h1 {
+    background-color: darkcyan;
+    color: darkred;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: darkblue;
+    color: #9ACD32;
+    border-radius: 30px;
+    text-align: center;
+}
+
+main nav {
+    color: rgb(92, 92, 197);
+    background-color: #06c8eb;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: #06c8eb;
+    border-radius: 15px;
+    border-color: olive;
+    padding: 3px;
+}
+
+.fire {
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    border-color: black;
+    border-: 10px;
+}
+
+.peta {
+    background-color: CadetBlue;
+    text-align: center;
+    color: black;
+     border-radius: 10px;
+}
+
+.fant {
+    background-color: #800080;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+}
+
+.fest {
+    background-color: #DAA520;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+}
